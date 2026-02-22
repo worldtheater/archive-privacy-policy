@@ -16,11 +16,11 @@ This Privacy Policy applies to the mobile application "Archive" (the "App").
 
 - When you actively use the backup/restore feature, the App reads/writes backup files at locations you choose (e.g., system document folders).
 - Backup files are encrypted with the backup password you set.
-- Auto-backup runs only if you explicitly enable it.
+- Backup/restore runs only when you explicitly trigger it.
 
 ### 1.3 Settings and Preferences
 
-- The App stores necessary settings locally, such as theme, biometric toggle, backup directory, auto-backup switch/interval, and last backup info.
+- The App stores necessary settings locally, such as theme, biometric toggle, backup directory, backup mode, and last backup info.
 - These settings are used only for app functionality, not for ad profiling.
 
 ### 1.4 Biometric Authentication
